@@ -8,12 +8,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "9605646",
+      "value": "20745441",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "822d45aa548a53682a458efa1933e4c9",
+      "value": "82c5ac01379b3b8a5603f220d2d406fd",
       "required": true
     },
     "BOT_TOKEN": {
@@ -28,12 +28,12 @@
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "8358169944",
+      "value": "7990155194",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
       "description": "Batch size for free users",
-      "value": "0",
+      "value": "500",
       "required": true
     },
     "PREMIUM_LIMIT": {
@@ -66,17 +66,17 @@
     
     "SUDO_USERS": {
       "description": "Other Admins' IDs (optional)",
-      "value": "",
-      "required": false
+      "value": "8322553565",
+      "required": true
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "-1002738491112",
+      "value": "-1002933220325",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
-      "value": "-1002738491112",
+      "value": "-1002933220325",
       "required": true
     }
   },
